@@ -4,11 +4,13 @@ I am a computing science student at Heriot-Watt University
 Here you can find personal and group projects I have worked on, as well as other bits and bobs
 
 ## 🛠️ Current Project
-I am currently working on a collabrative project that is developing an adventure game for Roblox
+I am currently working on a personal collaborative project with a small team.
 
-The project is being built with Typescript and is providing me with a good balance of client and server-side games development, as I working on serveral aspects of the game 
+We are developing an adventure game for Roblox.
 
-I'm hoping the progress of this project continues to develop well and results in a fun, interactive, and rewarding game
+The project is being built with TypeScript and is giving me valuable experience in both client- and server-side game development, as I’m working on several aspects of the game.
+
+I’m hopeful that the project continues to progress well and results in a fun, interactive, and rewarding experience.
 
 You can find the project [here](https://github.com/slitherylemur/skyJourney)
 
