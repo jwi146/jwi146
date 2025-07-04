@@ -16,7 +16,7 @@ I’m hopeful that the project continues to progress well and results in a fun, 
 ## 📂 Previous Projects 
 Here you can find previous projects that I have worked on:
 
-  - **What Watts**: This was a university group project focused on designing a smart-home energy usage UI, completed over two semesters.*(Private Repo)*
+  - **What Watts**: This was a university group project focused on designing a smart-home energy usage UI, completed over two semesters. *(Private Repo)*
     
        In the first semester, we conducted pre-development research and documentation, which included evaluating requirements, creating mock-ups, and developing UML diagrams.
 
