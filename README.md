@@ -1,5 +1,5 @@
 ## Hi there, I'm James👋
-I am a computing science student at Heriot-Watt University
+I am a computer science student at Heriot-Watt University
 
 Here you can find personal and group projects I have worked on, as well as other bits and bobs
 
