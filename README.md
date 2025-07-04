@@ -15,7 +15,7 @@ I’m hopeful that the project continues to progress well and results in a fun, 
 You can find the project [here](https://github.com/slitherylemur/skyJourney)
 
 ## 📂 Previous Projects 
-Here you can find other projects that I have worked on:
+Here you can find previous projects that I have worked on:
 
   - [What Watts](https://github.com/F28SO-Group10/Stage-2-Cw) : This was a university group project focused on designing a smart-home energy usage UI, completed over two semesters.
     
