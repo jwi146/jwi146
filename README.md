@@ -4,7 +4,7 @@ I am a computer science student at Heriot-Watt University
 Here you can find personal and group projects I have worked on, as well as other bits and bobs
 
 ## 🛠️ Current Project
-I am currently working on a personal collaborative project with a small team.
+I am currently working on a personal collaborative project with a small team. *(Private Repo)*
 
 We are developing an adventure game for Roblox.
 
@@ -12,12 +12,11 @@ The project is being built with TypeScript and is giving me valuable experience 
 
 I’m hopeful that the project continues to progress well and results in a fun, interactive, and rewarding experience.
 
-You can find the project [here](https://github.com/slitherylemur/skyJourney)
 
 ## 📂 Previous Projects 
 Here you can find previous projects that I have worked on:
 
-  - [What Watts](https://github.com/F28SO-Group10/Stage-2-Cw) : This was a university group project focused on designing a smart-home energy usage UI, completed over two semesters.
+  - **What Watts**: This was a university group project focused on designing a smart-home energy usage UI, completed over two semesters.*(Private Repo)*
     
        In the first semester, we conducted pre-development research and documentation, which included evaluating requirements, creating mock-ups, and developing UML diagrams.
 
