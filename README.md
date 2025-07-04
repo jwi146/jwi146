@@ -15,7 +15,7 @@ You can find the project [here](https://github.com/slitherylemur/skyJourney)
 ## 📂 Other Projects 
 Here you can find other projects that I have worked on:
 
-  - [What Watts](https://github.com/F28SO-Group10/Stage-2-Cw) : This was a group project focusing on a smart-home energy usage UI implemented over 2 semesters. The first semester was pre-development research and documentation, where requirements, mock-ups, and UML diagrams were evaluated. During the second, my team and I were able to start the development of our system, which involved a web-based UI and database. My role was lead frontend developer, and alongside my teammate we developed our systems UI, making sure it was friendly, interactive, and intuitive. Our UI system was developed usinf HTML, CSS, and Javascript.
+  - [What Watts](https://github.com/F28SO-Group10/Stage-2-Cw) : This was a university group project focusing on a smart-home energy usage UI implemented over 2 semesters. The first semester was pre-development research and documentation, where requirements, mock-ups, and UML diagrams were evaluated. During the second, my team and I were able to start the development of our system, which involved a web-based UI and database. My role was lead frontend developer, and alongside my teammate we developed our systems UI, making sure it was friendly, interactive, and intuitive. Our UI system was developed usinf HTML, CSS, and Javascript.
 
 
 
