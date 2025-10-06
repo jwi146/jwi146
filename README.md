@@ -13,6 +13,13 @@ We're building an adventure game using **TypeScript**, and I'm gaining valuable 
 
 I’m excited about the progress we've made so far and hopeful it evolves into a fun and rewarding experience.
 
+On top of this personal project, I am working on 2 university projects.
+*(The repositories are private and not publicly accessible.)*
+
+One project is a paired project that involves buliding a **ANN**(Artificial Neural Network) from scratch using **PSO**(Partical Swarm Optimisation) from scratch to train it. Then evaluate it's ability to predict values and report our findings
+
+The 2nd project is trio, where we are builing a graphical diorama in **Blender**. In addition to developing the diorama, we are adding animations in **Unreal Engine**, before finally creating a real-time interaction using **WebGPU**
+
 ---
 
 ## 📂 **Previous Projects**  
