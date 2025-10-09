@@ -5,7 +5,7 @@ Here you'll find a selection of personal and group projects I've worked on, as w
 
 ---
 
-## 🛠️ **Current Project**  
+## 🛠️ **Current Projects**  
 I'm currently working on a personal project — a Roblox adventure game developed in collaboration with a small team.
 *(The repository is private and not publicly accessible.)*
 
