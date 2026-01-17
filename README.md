@@ -44,7 +44,7 @@ Our diorama was of a traditional Zen garden, with a Hut, River, and Flora and Fa
 - First Stage: Each created our objects and textures we were assigned in **Blender**
 - Second Stage: In this stage we added an animation to our diorama by importing our assembled diorama into **Unreal Engine**
 - Third Stage: The final stage involved importing and loading our **Blender** diorama into **WebGPU** and adding interactivity to it by adding moving cameras, changing lighting, etc
-- 
+  
 My main focuses during these stages where object and texture making in **Blender** and importing and loading our diorama into **WebGPU**
 
 ---
