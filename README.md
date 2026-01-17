@@ -14,6 +14,7 @@ We're building an adventure game using **TypeScript**, and I'm gaining valuable 
 I’m excited about the progress we've made so far and hopeful it evolves into a fun and rewarding experience.
 
 On top of this personal project, I am working on my University Honours Project. *(currently on a private repo so not publicly accessible)*
+
 This project invloves creating a web application using **React** that will allow users to learn about good and bad password and password policy principles. The aim of this project is to improve users knowledge on online saftey to improve their own cybersecurity, through a gamified approach that hopes to increase engagement. User progress and stats will be saved ina **Firebase** database. 
 
 ---
@@ -22,6 +23,7 @@ This project invloves creating a web application using **React** that will allow
 Here are some past projects I've contributed to:
 
 🔹 **What Watts** *(Private repo)*  
+
 A university group project focused on designing a smart home energy usage UI. Completed over two semesters.
 
 - In Semester 1, we conducted pre-development research: requirements analysis, wireframes, and UML diagrams.
@@ -30,10 +32,12 @@ A university group project focused on designing a smart home energy usage UI. Co
 I served as the **lead front-end developer**, working alongside a teammate to create an interactive and intuitive interface using **HTML, CSS, and JavaScript**.
 
 🔹 **Biologically Optimised Neural Network** *(Private repo)*
+
 A university paired project whose aim was to develop an ANN trained by a version of the PSO algorithm.
 I was focused on the intial implementation of the **ANN** and the development of the **PSO** algorithm.
 
 🔹**3D Interactive Diorama** *(Private repo)*
+
 A univeristy project done in a group of 3, that was completed equally in 3 stages.
 Our diorama was of a traditional Zen garden, with a Hut, River, and Flora and Fauna
 
