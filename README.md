@@ -13,12 +13,8 @@ We're building an adventure game using **TypeScript**, and I'm gaining valuable 
 
 I’m excited about the progress we've made so far and hopeful it evolves into a fun and rewarding experience.
 
-On top of this personal project, I am working on 2 university projects.
-*(The repositories are private and not publicly accessible.)*
-
-One project is a paired project that involves buliding a **ANN**(Artificial Neural Network) from scratch using **PSO**(Partical Swarm Optimisation) from scratch to train it. Then evaluate it's ability to predict values and report our findings
-
-The 2nd project is trio, where we are builing a graphical diorama in **Blender**. In addition to developing the diorama, we are adding animations in **Unreal Engine**, before finally creating a real-time interaction using **WebGPU**
+On top of this personal project, I am working on my University Honours Project. *(currently on a private repo so not publicly accessible)*
+This project invloves creating a web application using **React** that will allow users to learn about good and bad password and password policy principles. The aim of this project is to improve users knowledge on online saftey to improve their own cybersecurity, through a gamified approach that hopes to increase engagement. User progress and stats will be saved ina **Firebase** database. 
 
 ---
 
@@ -32,6 +28,20 @@ A university group project focused on designing a smart home energy usage UI. Co
 - In Semester 2, we developed a web-based UI integrated with a backend database.
 
 I served as the **lead front-end developer**, working alongside a teammate to create an interactive and intuitive interface using **HTML, CSS, and JavaScript**.
+
+🔹 **Biologically Optimised Neural Network** *(Private repo)*
+A university paired project whose aim was to develop an ANN trained by a version of the PSO algorithm.
+I was focused on the intial implementation of the **ANN** and the development of the **PSO** algorithm.
+
+🔹**3D Interactive Diorama** *(Private repo)*
+A univeristy project done in a group of 3, that was completed equally in 3 stages.
+Our diorama was of a traditional Zen garden, with a Hut, River, and Flora and Fauna
+
+- First Stage: Each created our objects and textures we were assigned in **Blender**
+- Second Stage: In this stage we added an animation to our diorama by importing our assembled diorama into **Unreal Engine**
+- Third Stage: The final stage involved importing and loading our **Blender** diorama into **WebGPU** and adding interactivity to it by adding moving cameras, changing lighting, etc
+- 
+My main focuses during these stages where object and texture making in **Blender** and importing and loading our diorama into **WebGPU**
 
 ---
 
