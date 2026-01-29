@@ -6,7 +6,7 @@ Here you'll find a selection of personal and group projects I've worked on, as w
 ---
 
 ## 🛠️ **Current Projects**  
-I'm currently working on a personal project — a Roblox adventure game developed in collaboration with a small team.
+I'm currently working on a personal project, a Roblox adventure game developed in collaboration with a small team.
 *(The repository is private and not publicly accessible.)*
 
 We're building an adventure game using **TypeScript**, and I'm gaining valuable experience in both client- and server-side game development. My contributions span multiple aspects of the project, from UI scripting to core mechanics.
