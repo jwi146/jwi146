@@ -13,14 +13,18 @@ We're building an adventure game using **TypeScript**, and I'm gaining valuable 
 
 I’m excited about the progress we've made so far and hopeful it evolves into a fun and rewarding experience.
 
-On top of this personal project, I am working on my University Honours Project. *(currently on a private repo so not publicly accessible)*
+On top of this personal project, I am working on another small project - a cipher toolkit made with **Python**.
 
-This project invloves creating a web application using **React** that will allow users to learn about good and bad password and password policy principles. The aim of this project is to improve users knowledge on online saftey to improve their own cybersecurity, through a gamified approach that hopes to increase engagement. User progress and stats will be saved ina **Firebase** database. 
+Its aim is to make a **CLI** tool that allows you to encrypt or decrypt plaintexts with classic and modern ciphers.
 
 ---
 
 ## 📂 **Previous Projects**  
-Here are some past projects I've contributed to:
+Here are some of my past projects :
+
+🔹 **GPE - Gamified Password Education** *(Private repo)*  
+
+This was my honours project for university. It was a **React** based web application that allowed users to learn about good and bad password principles through a series of mini games. Each mini game covered a different concept and used a different game mechanic / educational method. It used a **Firebase** database as a backend to store the level, streak, and xp for different users. The goal of this project was to improve users knowledge on online safety to improve their own cybersecurity via using a gamified approach to increase engagement.
 
 🔹 **What Watts** *(Private repo)*  
 
