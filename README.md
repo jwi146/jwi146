@@ -1,5 +1,5 @@
 ## Hey I'm James! 
-I'm a Computer Science student at Heriot-Watt University.
+I'm a Graduate Computer Science student from Heriot-Watt University.
 
 Here you'll find a selection of personal and group projects I've worked on, as well as other bits and pieces I'm experimenting with.
 
