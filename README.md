@@ -13,18 +13,18 @@ We're building an adventure game using **TypeScript**, and I'm gaining valuable 
 
 I’m excited about the progress we've made so far and hopeful it evolves into a fun and rewarding experience.
 
-On top of this personal project, I am working on another small project - a cipher toolkit made with **Python**.
-
-Its aim is to make a **CLI** tool that allows you to encrypt or decrypt plaintexts with classic and modern ciphers.
-
 ---
 
-## 📂 **Previous Projects**  
+## 📂 **Completed Projects**  
 Here are some of my past projects :
 
 🔹 **GPE - Gamified Password Education** *(Private repo)*  
 
-This was my honours project for university. It was a **React** based web application that allowed users to learn about good and bad password principles through a series of mini games. Each mini game covered a different concept and used a different game mechanic / educational method. It used a **Firebase** database as a backend to store the level, streak, and xp for different users. The goal of this project was to improve users knowledge on online safety to improve their own cybersecurity via using a gamified approach to increase engagement.
+This was my honours project for university. It was a **React** based web application that allowed users to learn about good and bad password principles through a series of **mini games**. Each mini game covered a different concept and used a different game mechanic / educational method. It used a **Firebase** database as a backend to store the level, streak, and xp for different users. The goal of this project was to improve users knowledge on online safety to **improve** their own **cybersecurity** via using a **gamified approach** to increase engagement.
+
+🔹 **Cipher CLI Toolkit** 
+
+A personal project where I created a **command line** based toolkit for encrypting and decrypting plaintexts and ciphertexts. It is created with **Python** and features a range of both classic and modern ciphers, such as **Caesar cipher, Vigenere cipher, Hashing, and AES** as well as many more. 
 
 🔹 **What Watts** *(Private repo)*  
 
