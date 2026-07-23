@@ -55,7 +55,7 @@ My main focuses during these stages where object and texture making in **Blender
 
 ---
 
-⚠️ *Note: Some repositories linked to these projects are private and not under my control. Please feel free to reach out for more information.*
+ *Note: Some repositories linked to these projects are private and not under my control. Please feel free to reach out for more information.*
 
 <!--
 **jwi146/jwi146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
