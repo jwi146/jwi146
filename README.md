@@ -13,7 +13,7 @@ We're building an adventure game using **TypeScript**, and I'm gaining valuable 
 
 I’m excited about the progress we've made so far and hopeful it evolves into a fun and rewarding experience.
 
-I am also currently creating a new web-based project, creating my own wordle variation in **React** and **Vite**. It is theme is space based so the words to be guessed are space-based. The first version of this has been completed, but I am still looking to add/change a few things.
+I am also currently creating a new web-based project, creating my own wordle variation in **React** and **Vite**. It's **theme** is **space** and so the **words** to be guessed are **space-based**. The first version of this has been completed, but I am still looking to add/change a few things.
 
 ---
 
