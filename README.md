@@ -6,16 +6,16 @@ Here you'll find a selection of personal and group projects I've worked on, as w
 ---
 
 ## **Current Projects**  
-I'm currently working on a personal project, a Roblox adventure game developed in collaboration with a small team.
+🔹I'm currently working on a personal project, a Roblox adventure game developed in collaboration with a small team.
 *(The repository is private and not publicly accessible.)*
 
 We're building an adventure game using **TypeScript**, and I'm gaining valuable experience in both client- and server-side game development. My contributions span multiple aspects of the project, from UI scripting to core mechanics.
 
 I’m excited about the progress we've made so far and hopeful it evolves into a fun and rewarding experience.
 
-I am also currently creating a **portfolio website** for myself. It is being built in **React** and **Vite** alongside **Tailwind** css framework. Its still being implemented and I aim for it to provide a good all-round view of myself and projects.
+🔹I am also currently creating a **portfolio website** for myself. It is being built in **React** and **Vite** alongside **Tailwind** css framework. Its still being implemented and I aim for it to provide a good all-round view of myself and projects.
 
-In addition I am looking to add to the **space wordle** project by adding a backend **Firebase** database so as to add **accounts** for user progress tracking, and adding features like **streaks**, **average guess length**, **total games played**, etc.
+🔹In addition I am looking to add to the **space wordle** project by adding a backend **Firebase** database so as to add **accounts** for user progress tracking, and adding features like **streaks**, **average guess length**, **total games played**, etc.
 
 ---
 
