@@ -13,7 +13,9 @@ We're building an adventure game using **TypeScript**, and I'm gaining valuable 
 
 I’m excited about the progress we've made so far and hopeful it evolves into a fun and rewarding experience.
 
-I am also currently creating a new web-based project, creating my own wordle variation in **React** and **Vite**. It's **theme** is **space** and so the **words** to be guessed are **space-based**. The first version of this has been completed, but I am still looking to add/change a few things.
+I am also currently creating a **portfolio website** for myself. It is being built in **React** and **Vite** alongside **Tailwind** css framework. Its still being implemented and I aim for it to provide a good all-round view of myself and projects.
+
+In addition I am looking to add to the **space wordle** project by adding a backend **Firebase** database so as to add **accounts** for user progress tracking, and adding features like **streaks**, **average guess length**, **total games played**, etc.
 
 ---
 
@@ -36,6 +38,10 @@ A university group project focused on designing a smart home energy usage UI. Co
 - In Semester 2, we developed a web-based UI integrated with a backend database.
 
 I served as the **lead front-end developer**, working alongside a teammate to create an interactive and intuitive interface using **HTML, CSS, and JavaScript**.
+
+🔹 **Space Wordle** 
+
+A personal project where I created a web-app with my own version of the wordle game. It is created in **React** and **Vite**. The **theme** for this project was **space** and so the list of target words (~ 40) are **space-related**. The initial version of this has been completed but future additions like streaks, levels, and a backend database are hoped to be added.
 
 🔹 **Biologically Optimised Neural Network** *(Private repo)*
 
