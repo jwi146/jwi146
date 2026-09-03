@@ -6,21 +6,18 @@ Here you'll find a selection of personal and group projects I've worked on, as w
 ---
 
 ## **Current Projects**  
-🔹I'm currently working on a personal project, a Roblox adventure game developed in collaboration with a small team.
-*(The repository is private and not publicly accessible.)*
 
-We're building an adventure game using **TypeScript**, and I'm gaining valuable experience in both client- and server-side game development. My contributions span multiple aspects of the project, from UI scripting to core mechanics.
-
-I’m excited about the progress we've made so far and hopeful it evolves into a fun and rewarding experience.
-
-🔹I am also currently creating a **portfolio website** for myself. It is being built in **React** and **Vite** alongside **Tailwind** css framework. Its still being implemented and I aim for it to provide a good all-round view of myself and projects.
-
-🔹In addition I am looking to add to the **space wordle** project by adding a backend **Firebase** database so as to add **accounts** for user progress tracking, and adding features like **streaks**, **average guess length**, **total games played**, etc.
+🔹I am looking to add to the **space wordle** project by adding a backend **Firebase** database so as to add **accounts** for user progress tracking, and adding features like **streaks**, **average guess length**, **total games played**, etc.
 
 ---
 
 ## **Completed Projects**  
 Here are some of my past projects :
+
+🔹**Portfolio Website**
+
+This is my personal portfolio site, built with **React**, **Vite**, and **Tailwind CSS**. It showcases my featured projects and case studies through write-ups, screenshots, and live demos, alongside my education, experience, and background. You can view it live at https://www.james-irving.com/.
+
 
 🔹 **GPE - Gamified Password Education** *(Private repo)*  
 
@@ -28,7 +25,15 @@ This was my honours project for university. It was a **React** based web applica
 
 🔹 **Cipher CLI Toolkit** 
 
-A personal project where I created a **command line** based toolkit for encrypting and decrypting plaintexts and ciphertexts. It is created with **Python** and features a range of both classic and modern ciphers, such as **Caesar cipher, Vigenere cipher, Hashing, and AES** as well as many more. 
+A personal project where I created a **command line** based toolkit for encrypting and decrypting plaintexts and ciphertexts. It is created with **Python** and features a range of both classic and modern ciphers, such as **Caesar cipher, Vigenere cipher, Hashing, and AES** as well as many more.
+
+🔹 **Space Wordle** 
+
+A personal project where I created a web-app with my own version of the wordle game. It is created in **React** and **Vite**. The **theme** for this project was **space** and so the list of target words (~ 40) are **space-related**. The initial version of this has been completed but future additions like streaks, levels, and a backend database are hoped to be added.
+
+🔹**Roblox Multiplayer Game** *(Freelance, Private repo, Currently paused)*
+
+I worked as a freelance developer on a multiplayer adventure game for an early-stage Edinburgh games studio, built with TypeScript using the Roblox-TypeScript framework. My contributions spanned both client- and server-side systems, including core gameplay mechanics and UI scripting, working alongside the studio founder and two other developers. Development is currently paused while both sides focus on other priorities (my final-year dissertation included), and I've been invited to return when work resumes.
 
 🔹 **What Watts** *(Private repo)*  
 
@@ -38,10 +43,6 @@ A university group project focused on designing a smart home energy usage UI. Co
 - In Semester 2, we developed a web-based UI integrated with a backend database.
 
 I served as the **lead front-end developer**, working alongside a teammate to create an interactive and intuitive interface using **HTML, CSS, and JavaScript**.
-
-🔹 **Space Wordle** 
-
-A personal project where I created a web-app with my own version of the wordle game. It is created in **React** and **Vite**. The **theme** for this project was **space** and so the list of target words (~ 40) are **space-related**. The initial version of this has been completed but future additions like streaks, levels, and a backend database are hoped to be added.
 
 🔹 **Biologically Optimised Neural Network** *(Private repo)*
 
